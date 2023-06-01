@@ -53,10 +53,10 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyD_Gm9u4Ec3AzHcoXLvYxb3V6Zmi4F1xAo',
-    appId: '1:227510247038:android:023ca1c7d25f80fe95022f',
-    messagingSenderId: '227510247038',
-    projectId: 'pictionary-af38d',
-    storageBucket: 'pictionary-af38d.appspot.com',
+    apiKey: 'apiKey.exemple',
+    appId: 'apiKey.exemple',
+    messagingSenderId: '147536951',
+    projectId: 'pictionary',
+    storageBucket: 'pictionary.etna.fr',
   );
 }
