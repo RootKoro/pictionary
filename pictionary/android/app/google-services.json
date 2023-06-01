@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "227510247038",
+    "project_id": "pictionary-af38d",
+    "storage_bucket": "pictionary-af38d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227510247038:android:023ca1c7d25f80fe95022f",
+        "android_client_info": {
+          "package_name": "com.example.pictionary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227510247038-gl77560auls2u2o0c108edi8o0mhs1iv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Gm9u4Ec3AzHcoXLvYxb3V6Zmi4F1xAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227510247038-gl77560auls2u2o0c108edi8o0mhs1iv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "227510247038-2dq5g1p98b3a3gqb2a4maussll9usnss.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pictionary"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
